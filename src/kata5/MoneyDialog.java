@@ -1,6 +1,5 @@
 package kata5;
 
-import java.awt.PopupMenu;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
